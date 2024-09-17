@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gameSystem id="6a24-284a-f4ee-d6aa" name="Warhammer 40,000 7th Edition - With Fan Made units" revision="2044" battleScribeVersion="2.03" authorName="BSData Developers" authorContact="" authorUrl="https://discord.gg/KqPVhds" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
+<gameSystem id="6a24-284a-f4ee-d6aa" name="Warhammer 40,000 7th Edition - With Fan Made units" revision="2045" battleScribeVersion="2.03" authorName="BSData Developers" authorContact="" authorUrl="https://discord.gg/KqPVhds" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
   <publications>
     <publication id="e1ebd931--pubd1e514" name="BRB"/>
     <publication id="e1ebd931--pubd1e1172" name="Kill Team Dataslate"/>

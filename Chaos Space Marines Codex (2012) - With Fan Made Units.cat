@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="5af86795-95c1-a1eb-c333-17137242b62f" name="Chaos Space Marines: Codex (2012) - With Fan Made Units" revision="2030" battleScribeVersion="2.03" authorName="BSData Developers" authorUrl="https://discord.gg/KqPVhds" library="false" gameSystemId="6a24-284a-f4ee-d6aa" gameSystemRevision="2044" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="5af86795-95c1-a1eb-c333-17137242b62f" name="Chaos Space Marines: Codex (2012) - With Fan Made Units" revision="2031" battleScribeVersion="2.03" authorName="BSData Developers" authorUrl="https://discord.gg/KqPVhds" library="false" gameSystemId="6a24-284a-f4ee-d6aa" gameSystemRevision="2045" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <publications>
     <publication id="5af86795--pubd1e6472" name="IA Vraks 2015"/>
     <publication id="5af86795--pubd1e6811" name="Imperial Armour 13"/>
@@ -459,8 +459,8 @@ D6 Result
             </selectionEntry>
           </selectionEntries>
           <entryLinks>
-            <entryLink id="41e6-3cbd-0bdf-91c3" name="New EntryLink" hidden="false" collective="false" import="true" targetId="2ea0-9eab-fa80-66b9" type="selectionEntry"/>
-            <entryLink id="6d29-efef-8db0-ed67" name="New EntryLink" hidden="false" collective="false" import="true" targetId="70b1-2164-14ed-1d31" type="selectionEntry">
+            <entryLink id="41e6-3cbd-0bdf-91c3" name="Crimson Slaughter" hidden="false" collective="false" import="true" targetId="2ea0-9eab-fa80-66b9" type="selectionEntry"/>
+            <entryLink id="6d29-efef-8db0-ed67" name="Black Legion" hidden="false" collective="false" import="true" targetId="70b1-2164-14ed-1d31" type="selectionEntry">
               <modifiers>
                 <modifier type="set" field="20c8-6cf7-01c9-99a8" value="1">
                   <conditions>
@@ -478,7 +478,7 @@ D6 Result
                 </modifier>
               </modifiers>
             </entryLink>
-            <entryLink id="4635-d223-be9f-4960" name="New EntryLink" hidden="false" collective="false" import="true" targetId="9c55-dd66-6f7b-8bc8" type="selectionEntry">
+            <entryLink id="4635-d223-be9f-4960" name="Death Guard" hidden="false" collective="false" import="true" targetId="9c55-dd66-6f7b-8bc8" type="selectionEntry">
               <modifiers>
                 <modifier type="set" field="bfb5-1cd3-c00c-2716" value="1">
                   <conditions>
@@ -496,7 +496,7 @@ D6 Result
                 </modifier>
               </modifiers>
             </entryLink>
-            <entryLink id="fa8f-69d7-33fa-00dd" name="New EntryLink" hidden="false" collective="false" import="true" targetId="ef71-058b-3f36-592f" type="selectionEntry">
+            <entryLink id="fa8f-69d7-33fa-00dd" name="World Eaters" hidden="false" collective="false" import="true" targetId="ef71-058b-3f36-592f" type="selectionEntry">
               <modifiers>
                 <modifier type="set" field="6a89-8b66-0b6e-677c" value="1">
                   <conditions>
@@ -505,7 +505,7 @@ D6 Result
                 </modifier>
               </modifiers>
             </entryLink>
-            <entryLink id="76ea-9f16-a18f-7520" name="" hidden="false" collective="false" import="true" targetId="4e4a-5727-13e8-cc49" type="selectionEntry">
+            <entryLink id="76ea-9f16-a18f-7520" name="Iron Warriors" hidden="false" collective="false" import="true" targetId="4e4a-5727-13e8-cc49" type="selectionEntry">
               <modifiers>
                 <modifier type="set" field="4174-6cc5-9f62-3021" value="1">
                   <conditions>
@@ -514,7 +514,7 @@ D6 Result
                 </modifier>
               </modifiers>
             </entryLink>
-            <entryLink id="3916-ae1f-0a59-f4eb" name="New EntryLink" hidden="false" collective="false" import="true" targetId="c183-8bf0-8c4b-6ffb" type="selectionEntry">
+            <entryLink id="3916-ae1f-0a59-f4eb" name="Emperor&apos;s Children" hidden="false" collective="false" import="true" targetId="c183-8bf0-8c4b-6ffb" type="selectionEntry">
               <modifiers>
                 <modifier type="set" field="aa88-69a0-f5ae-ca20" value="1">
                   <conditions>
@@ -523,7 +523,7 @@ D6 Result
                 </modifier>
               </modifiers>
             </entryLink>
-            <entryLink id="cac7-3f1e-41fb-d71e" name="New EntryLink" hidden="false" collective="false" import="true" targetId="9cd2-f54b-0a8b-e3d7" type="selectionEntry">
+            <entryLink id="cac7-3f1e-41fb-d71e" name="Alpha Legion" hidden="false" collective="false" import="true" targetId="9cd2-f54b-0a8b-e3d7" type="selectionEntry">
               <modifiers>
                 <modifier type="set" field="2c32-7924-83e0-2f83" value="1">
                   <conditions>
@@ -532,7 +532,7 @@ D6 Result
                 </modifier>
               </modifiers>
             </entryLink>
-            <entryLink id="2b41-6b1d-c7c5-7f80" name="New EntryLink" hidden="false" collective="false" import="true" targetId="338a-2e27-7fa3-58e2" type="selectionEntry">
+            <entryLink id="2b41-6b1d-c7c5-7f80" name="Night Lords" hidden="false" collective="false" import="true" targetId="338a-2e27-7fa3-58e2" type="selectionEntry">
               <modifiers>
                 <modifier type="set" field="73e7-54d6-d103-ff04" value="1">
                   <conditions>
@@ -1521,7 +1521,7 @@ D6 Result
         <categoryLink id="8fe4-ed6c-0d95-6806-bf93-7277-bf48-16f7" hidden="false" targetId="bf93-7277-bf48-16f7" primary="true"/>
       </categoryLinks>
     </entryLink>
-    <entryLink id="93e0-5b4e-b296-9453" name="New EntryLink" hidden="false" collective="false" import="true" targetId="6bc4-1215-355d-72b6" type="selectionEntry">
+    <entryLink id="93e0-5b4e-b296-9453" name="Chaos Warband" hidden="false" collective="false" import="true" targetId="6bc4-1215-355d-72b6" type="selectionEntry">
       <categoryLinks>
         <categoryLink id="93e0-5b4e-b296-9453-28b94f51-e66b-4096-aa59-0c9df620a77d" hidden="false" targetId="28b94f51-e66b-4096-aa59-0c9df620a77d" primary="true"/>
       </categoryLinks>
@@ -1657,7 +1657,7 @@ D6 Result
         <categoryLink id="8837-3276-39bb-44a7-28b94f51-e66b-4096-aa59-0c9df620a77d" hidden="false" targetId="28b94f51-e66b-4096-aa59-0c9df620a77d" primary="true"/>
       </categoryLinks>
     </entryLink>
-    <entryLink id="9d00-563a-d6ee-7fe5" name="New EntryLink" hidden="false" collective="false" import="true" targetId="75d6-94fa-ca29-43c2" type="selectionEntry">
+    <entryLink id="9d00-563a-d6ee-7fe5" name="Tzaangors" hidden="false" collective="false" import="true" targetId="75d6-94fa-ca29-43c2" type="selectionEntry">
       <categoryLinks>
         <categoryLink id="9d00-563a-d6ee-7fe5-5d76b6f5-20ae-4d70-8f59-ade72a2add3a" hidden="false" targetId="5d76b6f5-20ae-4d70-8f59-ade72a2add3a" primary="true"/>
       </categoryLinks>
@@ -2090,6 +2090,11 @@ D6 Result
       </modifiers>
       <categoryLinks>
         <categoryLink id="dcff-794b-3d2d-f8f2" name="New CategoryLink" hidden="false" targetId="c274d0b0-5866-44bc-9810-91c136ae7438" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="82d1-bb08-1056-7e28" name="Mutalith Vortex Beast" hidden="false" collective="false" import="true" targetId="b53c-928e-a885-97c9" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9de0-01be-dc7f-c543" name="New CategoryLink" hidden="false" targetId="abf5fd55-9ac7-4263-8bc1-a9fb0a8fa6a6" primary="true"/>
       </categoryLinks>
     </entryLink>
   </entryLinks>
@@ -13429,7 +13434,7 @@ Hellflame, Las-Destructor, Shellstorm</description>
         </profile>
       </profiles>
       <infoLinks>
-        <infoLink id="f4ea-2c20-0685-baaf" hidden="false" targetId="3eda-669d-bd54-e3c0" type="rule"/>
+        <infoLink id="f4ea-2c20-0685-baaf" name="Daemon" hidden="false" targetId="3eda-669d-bd54-e3c0" type="rule"/>
         <infoLink id="2e8e-8ecd-e7bc-1bfb" hidden="false" targetId="8d37-2e47-4a04-58f7" type="rule"/>
         <infoLink id="5834-15b8-a85c-49aa" hidden="false" targetId="fd9a1651-2e3e-e050-0aac-87937ab7e2c0" type="rule"/>
       </infoLinks>
@@ -23110,7 +23115,7 @@ The sokar may also transport a single Rhino, including a squad within, occupying
       </rules>
       <infoLinks>
         <infoLink id="345d-5e0c-6ffa-9807" name="New InfoLink" hidden="false" targetId="39c6-1f20-a156-47f4" type="rule"/>
-        <infoLink id="faf5-3528-9c77-0758" name="New InfoLink" hidden="false" targetId="571b-df0f-ed41-1532" type="rule"/>
+        <infoLink id="faf5-3528-9c77-0758" name="Favoured of Tzeentch" hidden="false" targetId="571b-df0f-ed41-1532" type="rule"/>
       </infoLinks>
       <selectionEntryGroups>
         <selectionEntryGroup id="4dfa-0f24-d24d-4b17" name="Sorcerer or Exalted Sorcerer" hidden="false" collective="false" import="true">
@@ -25850,6 +25855,9 @@ In addition, if a model that has the VotLW special rule is slain in the Fight su
           <infoLinks>
             <infoLink id="ee17-6866-9617-241a" name="Force Stave" hidden="false" targetId="ed69-f85e-5982-9ab8" type="profile"/>
           </infoLinks>
+          <costs>
+            <cost name="pts" typeId="points" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="3d27-966b-4d36-e6f0" name="Inferno Bolt Pistol" hidden="false" collective="false" import="true" type="upgrade">
           <constraints>
@@ -25859,8 +25867,94 @@ In addition, if a model that has the VotLW special rule is slain in the Fight su
           <infoLinks>
             <infoLink id="f79f-e010-b8bf-37d2" name="Inferno Bolt Pistol" hidden="false" targetId="eb36-32eb-0b13-37f0" type="profile"/>
           </infoLinks>
+          <costs>
+            <cost name="pts" typeId="points" value="0.0"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
+      <costs>
+        <cost name="pts" typeId="points" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b53c-928e-a885-97c9" name="Mutalith Vortex Beast" hidden="false" collective="false" import="true" type="model">
+      <modifiers>
+        <modifier type="set" field="hidden" value="true">
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="41e6-3cbd-0bdf-91c3" type="equalTo"/>
+                <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="7829-adb0-4afd-dafe" type="equalTo"/>
+                <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="6d29-efef-8db0-ed67" type="equalTo"/>
+                <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="2cca-8847-194e-40fb" type="equalTo"/>
+                <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="cac7-3f1e-41fb-d71e" type="equalTo"/>
+                <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="4635-d223-be9f-4960" type="equalTo"/>
+                <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="2b41-6b1d-c7c5-7f80" type="equalTo"/>
+                <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="3916-ae1f-0a59-f4eb" type="equalTo"/>
+                <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="76ea-9f16-a18f-7520" type="equalTo"/>
+                <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="fa8f-69d7-33fa-00dd" type="equalTo"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+      </modifiers>
+      <rules>
+        <rule id="acb1-44ff-b772-60a8" name="Mutating Vortex" hidden="false">
+          <description>At the end of your movement phase, any enemy unit within 2d6 gets d6 hits with S5</description>
+        </rule>
+        <rule id="ac0e-c6d9-6198-5563" name="Immaterial Flare" hidden="false">
+          <description>One per turn, when a friendly Tzeentch psyker within 6&quot; takes a psychic test, you can add a free Warp Charge point dice.</description>
+        </rule>
+      </rules>
+      <infoLinks>
+        <infoLink id="ef7b-83ce-5efa-8cbb" name="Daemon of Tzeentch" hidden="false" targetId="582aab1e-62de-5075-ec1f-90ee98ce10e6" type="rule"/>
+        <infoLink id="ff35-4a02-60f3-c457" name="Feel No Pain" hidden="false" targetId="3c7d-11d6-e265-abb4" type="rule"/>
+      </infoLinks>
+      <selectionEntries>
+        <selectionEntry id="2ddd-7ae2-92b6-17b5" name="Mutalith Vortex Beast" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="527b-55c5-66f6-2706" type="min"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8034-9615-fa6e-a65a" type="max"/>
+          </constraints>
+          <profiles>
+            <profile id="fb0b-1474-0a68-16c6" name="Mutalith Vortex Beast" hidden="false" typeId="2d6001b0-980e-46d2-bcc2-a9fc60109afd" typeName="Unit">
+              <characteristics>
+                <characteristic name="Unit Type" typeId="c2b4b061-a0fd-499d-8a3d-6ee52587cbd5">Monstrous Creature</characteristic>
+                <characteristic name="WS" typeId="5ee4ff0b-b244-4670-9d05-91d10f80c32e">4</characteristic>
+                <characteristic name="BS" typeId="f6f92f00-8bb1-4afa-8ccb-46310b7dd5e5">4</characteristic>
+                <characteristic name="S" typeId="da036dbb-32c2-430a-9dd5-aa74e0c4f74b">7</characteristic>
+                <characteristic name="T" typeId="3f9ed75c-36cd-4169-9cef-48391bb55cfd">7</characteristic>
+                <characteristic name="W" typeId="17ee558f-3014-4bd2-afc1-b474d8d2b7a8">4</characteristic>
+                <characteristic name="I" typeId="a558b3ef-04d0-440e-a312-bac3255bf592">4</characteristic>
+                <characteristic name="A" typeId="5dff3e7c-e024-4030-a71d-03195ec06ea7">4</characteristic>
+                <characteristic name="Ld" typeId="4a42059d-12cd-4c1f-a4c7-bb569d13eeea">10</characteristic>
+                <characteristic name="Save" typeId="b215fe72-dbce-4ad6-89ec-c4bb3962c39d">4+</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="348f-944e-facb-9b72" name="Warp vortex" hidden="false" typeId="d5f97c0b-9fc9-478d-aa34-a7c414d3ea48" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Range" typeId="6fa97fa8-ea74-4a27-a0fb-bc4e5f367464">24&quot;</characteristic>
+                <characteristic name="Strength" typeId="a6383362-5aa8-4ff0-b1d0-00e059fc9d45">7</characteristic>
+                <characteristic name="AP" typeId="6abee736-f8d3-498e-97ac-a5c68445609f">3</characteristic>
+                <characteristic name="Type" typeId="077c342f-d7b9-45c6-b8af-88e97cafd3a2">Heavy 1, blast</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="b4e7-906d-1ceb-52fa" name="Mutalith claws" hidden="false" typeId="d5f97c0b-9fc9-478d-aa34-a7c414d3ea48" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Range" typeId="6fa97fa8-ea74-4a27-a0fb-bc4e5f367464">Melee</characteristic>
+                <characteristic name="Strength" typeId="a6383362-5aa8-4ff0-b1d0-00e059fc9d45">User</characteristic>
+                <characteristic name="AP" typeId="6abee736-f8d3-498e-97ac-a5c68445609f">3</characteristic>
+                <characteristic name="Type" typeId="077c342f-d7b9-45c6-b8af-88e97cafd3a2">Melee</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="pts" typeId="points" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="pts" typeId="points" value="200.0"/>
+      </costs>
     </selectionEntry>
   </sharedSelectionEntries>
   <sharedSelectionEntryGroups>
